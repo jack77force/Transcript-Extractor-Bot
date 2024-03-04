@@ -14,7 +14,7 @@ Yet another Telegram Voice Recognition bot but using [vosk](https://github.com/a
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samadii/Transcript-Extractor-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jack77force/Transcript-Extractor-Bot)
 
 
 ## Local Deploying
